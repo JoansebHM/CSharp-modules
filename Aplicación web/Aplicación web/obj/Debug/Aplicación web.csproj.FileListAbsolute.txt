@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\bin\Debug\Aplicación web.exe.config
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\bin\Debug\Aplicación web.exe
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\bin\Debug\Aplicación web.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\obj\Debug\Aplicación web.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\obj\Debug\Aplicación web.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\obj\Debug\Aplicación_web.Form1.resources
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\obj\Debug\Aplicación_web.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\obj\Debug\Aplicación web.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\obj\Debug\Aplicación web.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\obj\Debug\Aplicación web.exe
+C:\Users\lenovo\Desktop\Herramientas 2\Aplicación web\Aplicación web\obj\Debug\Aplicación web.pdb

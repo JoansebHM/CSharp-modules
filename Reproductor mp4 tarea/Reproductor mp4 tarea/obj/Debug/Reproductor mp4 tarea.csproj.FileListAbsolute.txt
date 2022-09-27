@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\bin\Debug\Reproductor mp4 tarea.exe.config
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\bin\Debug\Reproductor mp4 tarea.exe
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\bin\Debug\Reproductor mp4 tarea.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\bin\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\Reproductor mp4 tarea.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\Reproductor mp4 tarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\Reproductor mp4 tarea.csproj.ResolveComReference.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\Reproductor_mp4_tarea.Form1.resources
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\Reproductor_mp4_tarea.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\Reproductor mp4 tarea.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\Reproductor mp4 tarea.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\Reproductor mp4 tarea.exe
+C:\Users\lenovo\Desktop\Herramientas 2\Reproductor mp4 tarea\Reproductor mp4 tarea\obj\Debug\Reproductor mp4 tarea.pdb

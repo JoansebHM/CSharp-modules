@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\bin\Debug\Lector pdf.exe.config
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\bin\Debug\Lector pdf.exe
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\bin\Debug\Lector pdf.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\Lector pdf.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\Lector pdf.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\Lector pdf.csproj.ResolveComReference.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\Lector_pdf.Form1.resources
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\Lector_pdf.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\Lector pdf.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\Lector pdf.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\Lector pdf.exe
+C:\Users\lenovo\Desktop\Herramientas 2\Lector pdf\Lector pdf\obj\Debug\Lector pdf.pdb
