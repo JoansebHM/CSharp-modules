@@ -14,3 +14,19 @@ C:\Users\lenovo\Desktop\Herramientas 2\Reproductor multimedia\Reproductor multim
 C:\Users\lenovo\Desktop\Herramientas 2\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor multimedia.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\Desktop\Herramientas 2\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor multimedia.exe
 C:\Users\lenovo\Desktop\Herramientas 2\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor multimedia.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\bin\Debug\Reproductor multimedia.exe.config
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\bin\Debug\Reproductor multimedia.exe
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\bin\Debug\Reproductor multimedia.pdb
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor multimedia.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor multimedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor multimedia.csproj.ResolveComReference.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor_multimedia.formultimedia.resources
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor_multimedia.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor multimedia.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor multimedia.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor multimedia.exe
+C:\Users\lenovo\Desktop\Herramientas 2\Actividades\Reproductor multimedia\Reproductor multimedia\obj\Debug\Reproductor multimedia.pdb

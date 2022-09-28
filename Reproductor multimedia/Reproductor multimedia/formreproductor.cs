@@ -17,7 +17,8 @@ namespace Reproductor_multimedia
             InitializeComponent();
         }
 
-        string[] path, files;
+        string[] path;
+        List<string> lyrics = new List<string>();
 
         private void axWindowsMediaPlayer1_Enter(object sender, EventArgs e)
         {
@@ -25,7 +26,10 @@ namespace Reproductor_multimedia
 
         private void Lista_SelectedIndexChanged(object sender, EventArgs e)
         {
-            axWindowsMediaPlayer1.URL = path[Lista.SelectedIndex];
+            if (Lista.SelectedIndex >= 0)
+            {
+                axWindowsMediaPlayer1.URL = Lista.Items[Lista.SelectedIndex].ToString();
+            }//error
         }
 
         private void btnplay_Click(object sender, EventArgs e)
@@ -57,18 +61,23 @@ namespace Reproductor_multimedia
 
         private void btnabrir_Click(object sender, EventArgs e)
         {
-            OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Multiselect = true;
-            if(ofd.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            abrir.Multiselect = true;
+            if (abrir.ShowDialog() == DialogResult.OK)
             {
-                files= ofd.SafeFileNames;
-                path = ofd.FileNames;
-
-                for(int x = 0; x < files.Length; x++)
+                
+                path = abrir.FileNames;
+                for (int i = 0; i < path.Length; i++)
                 {
-                    Lista.Items.Add(files[x]);
+                    lyrics.Add(path[i]);
+                    Lista.Items.Add(path[i]);
                 }
             }
+        }
+
+        private void btnstop_Click(object sender, EventArgs e)
+        {
+            Lista.Items.RemoveAt(Lista.SelectedIndex);
+            axWindowsMediaPlayer1.Ctlcontrols.stop();
         }
     }
 }

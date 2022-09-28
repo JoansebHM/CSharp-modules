@@ -35,13 +35,15 @@
             this.btnanterior = new System.Windows.Forms.Button();
             this.btnparar = new System.Windows.Forms.Button();
             this.Lista = new System.Windows.Forms.ListBox();
+            this.abrir = new System.Windows.Forms.OpenFileDialog();
             this.axWindowsMediaPlayer1 = new AxWMPLib.AxWindowsMediaPlayer();
+            this.btnstop = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnabrir
             // 
-            this.btnabrir.Location = new System.Drawing.Point(98, 298);
+            this.btnabrir.Location = new System.Drawing.Point(60, 300);
             this.btnabrir.Name = "btnabrir";
             this.btnabrir.Size = new System.Drawing.Size(70, 23);
             this.btnabrir.TabIndex = 1;
@@ -51,7 +53,7 @@
             // 
             // btnplay
             // 
-            this.btnplay.Location = new System.Drawing.Point(179, 298);
+            this.btnplay.Location = new System.Drawing.Point(141, 300);
             this.btnplay.Name = "btnplay";
             this.btnplay.Size = new System.Drawing.Size(70, 23);
             this.btnplay.TabIndex = 2;
@@ -61,7 +63,7 @@
             // 
             // btnsiguiente
             // 
-            this.btnsiguiente.Location = new System.Drawing.Point(260, 298);
+            this.btnsiguiente.Location = new System.Drawing.Point(222, 300);
             this.btnsiguiente.Name = "btnsiguiente";
             this.btnsiguiente.Size = new System.Drawing.Size(70, 23);
             this.btnsiguiente.TabIndex = 3;
@@ -71,7 +73,7 @@
             // 
             // btnanterior
             // 
-            this.btnanterior.Location = new System.Drawing.Point(341, 298);
+            this.btnanterior.Location = new System.Drawing.Point(303, 300);
             this.btnanterior.Name = "btnanterior";
             this.btnanterior.Size = new System.Drawing.Size(70, 23);
             this.btnanterior.TabIndex = 4;
@@ -81,7 +83,7 @@
             // 
             // btnparar
             // 
-            this.btnparar.Location = new System.Drawing.Point(422, 298);
+            this.btnparar.Location = new System.Drawing.Point(384, 300);
             this.btnparar.Name = "btnparar";
             this.btnparar.Size = new System.Drawing.Size(70, 23);
             this.btnparar.TabIndex = 5;
@@ -98,6 +100,10 @@
             this.Lista.TabIndex = 7;
             this.Lista.SelectedIndexChanged += new System.EventHandler(this.Lista_SelectedIndexChanged);
             // 
+            // abrir
+            // 
+            this.abrir.FileName = "openFileDialog1";
+            // 
             // axWindowsMediaPlayer1
             // 
             this.axWindowsMediaPlayer1.Enabled = true;
@@ -108,11 +114,22 @@
             this.axWindowsMediaPlayer1.TabIndex = 0;
             this.axWindowsMediaPlayer1.Enter += new System.EventHandler(this.axWindowsMediaPlayer1_Enter);
             // 
-            // Form1
+            // btnstop
+            // 
+            this.btnstop.Location = new System.Drawing.Point(460, 300);
+            this.btnstop.Name = "btnstop";
+            this.btnstop.Size = new System.Drawing.Size(75, 23);
+            this.btnstop.TabIndex = 8;
+            this.btnstop.Text = "Stop";
+            this.btnstop.UseVisualStyleBackColor = true;
+            this.btnstop.Click += new System.EventHandler(this.btnstop_Click);
+            // 
+            // formultimedia
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(622, 469);
+            this.Controls.Add(this.btnstop);
             this.Controls.Add(this.Lista);
             this.Controls.Add(this.btnparar);
             this.Controls.Add(this.btnanterior);
@@ -120,7 +137,7 @@
             this.Controls.Add(this.btnplay);
             this.Controls.Add(this.btnabrir);
             this.Controls.Add(this.axWindowsMediaPlayer1);
-            this.Name = "Form1";
+            this.Name = "formultimedia";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).EndInit();
             this.ResumeLayout(false);
@@ -136,6 +153,8 @@
         private System.Windows.Forms.Button btnanterior;
         private System.Windows.Forms.Button btnparar;
         private System.Windows.Forms.ListBox Lista;
+        private System.Windows.Forms.OpenFileDialog abrir;
+        private System.Windows.Forms.Button btnstop;
     }
 }
 
