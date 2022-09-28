@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A9F65AE8-0349-43DC-9986-370335DA1D5D}</ProjectGuid>
+    <ProjectGuid>{A1EA62F3-18D5-4838-90C9-16E7F2B6B70B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Lector_pdf</RootNamespace>
-    <AssemblyName>Lector pdf</AssemblyName>
+    <RootNamespace>Reproductor_multimedia</RootNamespace>
+    <AssemblyName>Reproductor multimedia</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="formpdf.cs">
+    <Compile Include="formreproductor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formpdf.Designer.cs">
-      <DependentUpon>formpdf.cs</DependentUpon>
+    <Compile Include="formreproductor.Designer.cs">
+      <DependentUpon>formreproductor.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="formpdf.resx">
-      <DependentUpon>formpdf.cs</DependentUpon>
+    <EmbeddedResource Include="formreproductor.resx">
+      <DependentUpon>formreproductor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -80,22 +80,22 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <COMReference Include="AcroPDFLib">
-      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
       <VersionMajor>1</VersionMajor>
       <VersionMinor>0</VersionMinor>
       <Lcid>0</Lcid>
       <WrapperTool>tlbimp</WrapperTool>
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
-    </COMReference>
-    <COMReference Include="AxAcroPDFLib">
-      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
-      <VersionMajor>1</VersionMajor>
-      <VersionMinor>0</VersionMinor>
-      <Lcid>0</Lcid>
-      <WrapperTool>aximp</WrapperTool>
-      <Isolated>False</Isolated>
     </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

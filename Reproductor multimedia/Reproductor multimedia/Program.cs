@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lector_pdf
+namespace Reproductor_multimedia
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Lector_pdf
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new formpdf());
+            Application.Run(new formultimedia());
         }
     }
 }
